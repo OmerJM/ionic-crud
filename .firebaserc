@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "miapp-c4f7b": {
+      "hosting": {
+        "app": [
+          "miapp-c4f7b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "miapp-c4f7b"
+  }
+}
